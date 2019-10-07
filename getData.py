@@ -92,8 +92,8 @@ def cleanData():
                              "H0010003": "Vacant Housing Units"})
     
     # Write cleaned data to a new file
-    clean2000.write( data2000.to_string() )
-    clean2010.write( data2010.to_string() )
+    data2000.to_csv( clean2000 )
+    data2010.to_csv( clean2010 )
     
     
     
