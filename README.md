@@ -1,5 +1,5 @@
 # COSC-287, Fall 2019
-> **- Project 1 _Luc Nikiema, Aleida Olvera, Christian Paniagua_**
+> **- Project 1 _Luc Nikiema, Aleida Olvera, Christopher Paniagua_**
 
 
 ### Data Science Problem
